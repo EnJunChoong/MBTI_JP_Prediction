@@ -1,0 +1,5 @@
+Kaggle 8675 users' posts from Personality Cafe
+https://www.kaggle.com/datasnaek/mbti-type/download/NMJlht2pESGK2KiHOBMp%2Fversions%2F2voXRdiDtjj2xxUSs3eY%2Ffiles%2Fmbti_1.csv?datasetVersionNumber=1
+
+Reddit MBTI9k dataset, available on request at the website
+http://takelab.fer.hr/data/mbti
