@@ -1,1 +1,4 @@
 *.pickle
+*.ipnyb
+**/.ipynb_checkpoints/
+**/Raw/**/*.csv
